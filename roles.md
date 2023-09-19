@@ -1,0 +1,4 @@
+- Wizard, hat (Juri)  
+- King, crown (Katerina)
+- Junior dev (Max)
+- Dragon, dragon mask (Michael)
