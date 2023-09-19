@@ -1,3 +1,5 @@
+# Vanquishing Deployment Dragons with Nx wizardry
+
 ## Storyteller
 
 Hark, dear companions of wonder, gather 'round this enchanted realm. 
@@ -70,7 +72,7 @@ The book's answer was simple: "When you come to the bridge, look upon the clouds
 
 The lad put this knowledge to the test, and it worked like a charm. The bridge operators were astonished, and they immediately informed the king. Impressed by the lad's ingenuity, the king rewarded him with a chest of gold and sent him on his way.
 
-## Broken wheels
+## The broken circle
 
 As time passed, the wheels on the delivery carriage would often break, and the guards struggled to fix them. 
 "This devilish circle seems to be ever prone to vexing disruptions."
@@ -78,13 +80,11 @@ However after fixing the wheel, when they shouted "Nx affected," they realized t
 
 Once more, they summoned the young developer and asked him how to ensure the "affected" spell worked only on the boxes that were genuinely affected.
 
-## → Set Shas
-
 "Use 'set-shas' before you call 'affected.' This will make sure no failed deliveries are skipped over," advised the mysterious Book of Nx.
 
 With this solution in hand, the king was satisfied and generously rewarded the lad once again.
 
-## New locks every time
+## The lock
 
 However, the kingdom faced another challenge. To gather their necessary enchantments from distant realms, iStrudel sought the coveted "Pink Lady," while iJuice thirsted for the allure of "Golden Delicious" from neighboring kingdoms.
 
@@ -94,7 +94,7 @@ After a string of triumphant deployments that echoed through the kingdom, they s
 
 In desperation, they called upon the young man once more.
 
-## → External dependencies changed
+## External dependencies
 
 He asked the Book of Nx, "How can I ensure the 'affected' spell works, depending on the content, and only ships the boxes truly affected by external items?"
 
@@ -102,7 +102,7 @@ He asked the Book of Nx, "How can I ensure the 'affected' spell works, depending
 
 Following these instructions, the kingdom was once again able to use the "affected" spell for their shipments. The king was delighted, and the young assistant was richly rewarded.
 
-## Different systems  + Pruning
+## The pruning
 
 But the challenges didn't end there. In the vast tapestry of kingdoms, each pursued its own path, crafting enchantments unlike those of their fellow realms. Some chose to adorn their creations with windows, while others wove entirely unixs spells. You would not believe, in the most peculiar of kingdoms, carriages bore a coachmen's seat upon the right side!
 
@@ -117,7 +117,7 @@ They called upon the young lad once more.
 With this piece of wisdom, the kingdom's deployments became faster and more efficient than ever before. 
 "Hail the pruning" shouted the villagers, 
 
-## Image creation
+## The yarn and the helm
 
 By this time, the dragons had sensed a curious disturbance, though it did not emerge from under the sea. The flow of payment, like the ancient tides, had grown stagnant, threatening their very livelihood. Dragons from distant realms flaunted their expanded domains, boasting of their newfound ability to partake in the enchantments of Netflix, Amazon, and Disney. The local dragons bore the brunt of ridicule among their kin. Action was imperative.
 
@@ -128,6 +128,8 @@ With sharpened ears and vigilant eyes, they resumed their watchful vigil over th
 Turning to the mystical pages of his book, the young man sought wisdom on hastening deployments and ensuring their integrity.
 
 "To speed forth your deployments and unite them as one," the book whispered, "you must dock all items and enshroud them within a sealed chest, save them to cloud of Nx wisdom, and bound to a magical artifactory from the land of jFrog. Then embark upon a journey to a realm where DevOps titans dwell. There, cunningly blend in by inquiring about the merits of Jenkins against Azure. In a moment of distraction, seize one of their precious Kubernetes helms. With this helm, your deployments shall be invincible."
+
+## The happy ever after
 
 And so, he embarked on this mystical quest, following each step with unwavering resolve. In the end, he triumphed over the dragons and ascended to the cherished role of the kingdom's chief deployment sage.
 
