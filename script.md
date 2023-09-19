@@ -1,3 +1,5 @@
+![alt text](./images/castle.png)
+
 # Vanquishing Deployment Dragons with Nx wizardry
 
 ## Storyteller
